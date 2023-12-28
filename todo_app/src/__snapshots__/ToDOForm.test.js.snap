@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot test of form component 1`] = `
+<DocumentFragment>
+  <div>
+    <form>
+      <label
+        for="todo"
+      >
+        todo:
+      </label>
+      <input
+        id="todo"
+        name="todo"
+        placeholder="enter task"
+        type="text"
+        value=""
+      />
+      <button>
+        submit
+      </button>
+    </form>
+  </div>
+</DocumentFragment>
+`;
